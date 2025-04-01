@@ -232,6 +232,3 @@ FROM layoffs_staging2
 
 ALTER TABLE layoffs_staging2
 DROP COLUMN row_num;
-
--- code ref https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Portfolio%20Project%20-%20Data%20Cleaning.sql
--- layoff table https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
